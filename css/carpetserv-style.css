@@ -1271,7 +1271,7 @@ body:not(.expand_content):not(.body_style_fullwide):not(.body_style_fullscreen) 
 	background-repeat:no-repeat;
 	background-size:cover;
 	padding: 0.1px 0;
-	margin-bottom:7.1rem;
+	margin-bottom:0.5rem;
 }
 .remove_margins .top_panel {
 	margin-bottom:0 !important;
@@ -4879,7 +4879,7 @@ input[type="checkbox"].wpcf7-acceptance {
 	background-size: cover;
 }
 .sc_services_light .sc_services_item .sc_services_item_content_wrap  {
-	background-image: url("../images/images-services_bg.jpg");
+	background-image: url("../images/cleaning-tools.gif");
 	background-size: cover;
 }
 .footer_wrap .vc_row[data-vc-full-width="true"]{
