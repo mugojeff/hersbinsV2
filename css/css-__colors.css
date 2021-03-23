@@ -438,7 +438,7 @@ textarea.wp-editor-area {
   color: #b7b7b7;
 }
 .scheme_default code {
-  color: #1b685f;
+  color: #87b00b;
   background-color: #f3f5f7;
   border-color: #d5e9e8;
 }
@@ -453,10 +453,10 @@ textarea.wp-editor-area {
   color: #f190ac;
 }
 .scheme_default a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default blockquote {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default blockquote:before {
   color: #f190ac;
@@ -465,7 +465,7 @@ textarea.wp-editor-area {
   color: #f190ac;
 }
 .scheme_default blockquote a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default table th,
 .scheme_default table th + th,
@@ -479,7 +479,7 @@ textarea.wp-editor-area {
 }
 .scheme_default table th {
   color: #ffffff;
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default table > tbody > tr:nth-child(2n + 1) > th,
 .scheme_default table > tbody > tr:nth-child(2n + 1) > td {
@@ -493,7 +493,7 @@ textarea.wp-editor-area {
   color: #ffffff;
 }
 .scheme_default table > tbody th a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default hr {
   border-color: #e5f6f5;
@@ -503,7 +503,7 @@ textarea.wp-editor-area {
 .scheme_default .wp-caption .wp-caption-dd,
 .scheme_default .wp-caption-overlay .wp-caption .wp-caption-text,
 .scheme_default .wp-caption-overlay .wp-caption .wp-caption-dd {
-  color: #1b685f;
+  color: #87b00b;
   background-color: rgba(255, 255, 255, 0.9);
 }
 .scheme_default figure figcaption a,
@@ -518,7 +518,7 @@ textarea.wp-editor-area {
 .scheme_default .wp-caption .wp-caption-dd a:hover,
 .scheme_default .wp-caption-overlay .wp-caption .wp-caption-text a:hover,
 .scheme_default .wp-caption-overlay .wp-caption .wp-caption-dd a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default ul > li:before {
   color: #f190ac;
@@ -527,7 +527,7 @@ textarea.wp-editor-area {
   border-color: #e5f6f5;
 }
 .scheme_default fieldset legend {
-  color: #1b685f;
+  color: #87b00b;
   background-color: #ffffff;
 }
 .scheme_default::-webkit-input-placeholder {
@@ -631,7 +631,7 @@ textarea.wp-editor-area {
 .scheme_default .woocommerce.widget_product_search form:hover:after,
 .scheme_default .widget_display_search form:hover:after,
 .scheme_default #bbpress-forums #bbp-search-form:hover:after {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default input[type="radio"] + label:before,
 .scheme_default input[type="checkbox"] + label:before,
@@ -656,8 +656,8 @@ textarea.wp-editor-area {
 }
 .scheme_default .sc_form button {
   color: #ffffff;
-  border-color: #bccdc7;
-  background-color: #bccdc7;
+  border-color: #87b00b;
+  background-color: #87b00b;
 }
 .scheme_default input[type="submit"]:hover,
 .scheme_default input[type="reset"]:hover,
@@ -672,8 +672,8 @@ textarea.wp-editor-area {
   background-color: transparent;
 }
 .scheme_default .sc_form button:hover {
-  color: #bccdc7;
-  border-color: #bccdc7;
+  color: #87b00b;
+  border-color: #87b00b;
   background-color: transparent;
 }
 .scheme_default .wp-editor-container input[type="button"] {
@@ -706,7 +706,7 @@ textarea.wp-editor-area {
   border-top-color: #f190ac;
 }
 .scheme_default body {
-  color: #95b2af;
+  color: black;
   background-color: #ffffff;
 }
 .scheme_default #page_preloader,
@@ -780,7 +780,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .carpetserv_tabs .carpetserv_tabs_titles li.ui-state-active a {
   color: #ffffff;
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default .post_item {
   color: black;
@@ -797,7 +797,7 @@ textarea.wp-editor-area {
 .scheme_default .post_info_counters .post_counters_item,
 .scheme_default .post_counters .socials_share .socials_caption:before,
 .scheme_default .post_counters .socials_share .socials_caption:hover:before {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .post_meta_item.post_date a,
 .scheme_default .post_meta_item.post_date:before,
@@ -819,7 +819,7 @@ textarea.wp-editor-area {
   color: #f190ac;
 }
 .scheme_default .post_meta_item.post_categories a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .post_meta_item .socials_share .social_items {
   background-color: #ffffff;
@@ -851,7 +851,7 @@ textarea.wp-editor-area {
 .scheme_default .format-audio .post_featured.without_thumb .post_audio_title,
 .scheme_default .without_thumb .mejs-controls .mejs-currenttime,
 .scheme_default .without_thumb .mejs-controls .mejs-duration {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .mejs-container,
 .scheme_default .mejs-container .mejs-controls,
@@ -866,7 +866,7 @@ textarea.wp-editor-area {
   .mejs-horizontal-volume-slider
   .mejs-horizontal-volume-current {
   color: #ffffff;
-  background: #bccdc7;
+  background: #87b00b;
 }
 .scheme_default .mejs-controls .mejs-button:hover {
   color: #1d1d1d;
@@ -890,11 +890,11 @@ textarea.wp-editor-area {
 }
 .scheme_default .format-link .post_content_inner,
 .scheme_default .format-status .post_content_inner {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .format-chat p > b,
 .scheme_default .format-chat p > strong {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .post_layout_chess .post_content_inner:after {
   background: linear-gradient(to top, #ffffff 0%, rgba(255, 255, 255, 0) 100%)
@@ -904,16 +904,16 @@ textarea.wp-editor-area {
   background-color: #e5f6f5;
 }
 .scheme_default .nav-links-old {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .nav-links-old a:hover {
-  color: #1b685f;
-  border-color: #1b685f;
+  color: #87b00b;
+  border-color: #87b00b;
 }
 .scheme_default .page_links > a,
 .scheme_default .comments_pagination .page-numbers,
 .scheme_default .nav-links .page-numbers {
-  color: #1b685f;
+  color: #87b00b;
   background-color: #e5f6f5;
 }
 .scheme_default .page_links > a:hover,
@@ -931,14 +931,14 @@ textarea.wp-editor-area {
   .post_content
   .post_meta_item:hover
   .post_meta_label {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .post_item_single .post_content .post_tags,
 .scheme_default .post_item_single .post_content .post_tags a {
   color: #95b2af;
 }
 .scheme_default .post_item_single .post_content .post_tags a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default
   .post_item_single
@@ -948,7 +948,7 @@ textarea.wp-editor-area {
   .social_item
   a {
   color: #ffffff !important;
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default
   .post_item_single
@@ -971,7 +971,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .nav-links-single .nav-links a:hover .meta-nav,
 .scheme_default .nav-links-single .nav-links a:hover .post_date {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .nav-links-single .nav-links a:hover .post-title {
   color: #f190ac;
@@ -981,10 +981,10 @@ textarea.wp-editor-area {
   background-color: #e5f6f5;
 }
 .scheme_default .author_info .author_title {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .author_info a {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .author_info a:hover {
   color: #f190ac;
@@ -1005,7 +1005,7 @@ textarea.wp-editor-area {
   color: #b7b7b7;
 }
 .scheme_default .related_wrap .related_item_style_1:hover .post_date a:hover {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .comments_list_wrap,
 .scheme_default .comments_list_wrap > ul {
@@ -1017,7 +1017,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .comments_list_wrap .comment_date,
 .scheme_default .comments_list_wrap .comment_author {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .comments_list_wrap .comment_info {
   color: #95b2af;
@@ -1030,16 +1030,16 @@ textarea.wp-editor-area {
 }
 .scheme_default .comments_list_wrap .comment_counters a:hover:before,
 .scheme_default .comments_list_wrap .comment_counters a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .comments_list_wrap .comment_text {
   color: #95b2af;
 }
 .scheme_default .comments_list_wrap .comment_reply a {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .comments_list_wrap .comment_reply a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .comments_form_wrap {
   border-color: #e5f6f5;
@@ -1048,7 +1048,7 @@ textarea.wp-editor-area {
   color: #b7b7b7;
 }
 .scheme_default .comment_text table > tbody tr th {
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default .post_item_404 .page_title {
   color: #b7b7b7;
@@ -1057,7 +1057,7 @@ textarea.wp-editor-area {
   color: #f190ac;
 }
 .scheme_default .post_item_404 .go_home {
-  border-color: #1b685f;
+  border-color: #87b00b;
 }
 .scheme_default.sidebar .sidebar_inner {
   background-color: #e5f6f5;
@@ -1081,7 +1081,7 @@ textarea.wp-editor-area {
 .scheme_default.sidebar h4 a,
 .scheme_default.sidebar h5 a,
 .scheme_default.sidebar h6 a {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default.sidebar h1 a:hover,
 .scheme_default.sidebar h2 a:hover,
@@ -1117,13 +1117,13 @@ textarea.wp-editor-area {
 .scheme_default .widget_calendar caption,
 .scheme_default .widget_calendar tbody td a,
 .scheme_default .widget_calendar th {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .wp-block-calendar caption,
 .scheme_default .wp-block-calendar th,
 .scheme_default.sidebar .widget_calendar caption,
 .scheme_default.sidebar .widget_calendar th {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default.sidebar .widget_calendar tbody td a,
 .scheme_default .widget_calendar tbody td {
@@ -1155,10 +1155,10 @@ textarea.wp-editor-area {
   color: #1d1d1d;
 }
 .scheme_default .widget_calendar td#today:before {
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default.sidebar .widget_calendar td#today:before {
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default .widget_calendar td#today a:after {
   background-color: #ffffff;
@@ -1176,7 +1176,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .widget_calendar #prev a:hover,
 .scheme_default .widget_calendar #next a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default.sidebar .widget_calendar #prev a:hover,
 .scheme_default.sidebar .widget_calendar #next a:hover {
@@ -1197,7 +1197,7 @@ textarea.wp-editor-area {
   background-color: #ffffff;
 }
 .scheme_default .widget_categories li {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default.sidebar .widget_categories li {
   color: #95b2af;
@@ -1205,24 +1205,24 @@ textarea.wp-editor-area {
 .scheme_default .widget_product_tag_cloud a,
 .scheme_default .widget_tag_cloud a,
 .scheme_default .wp-block-tag-cloud a {
-  color: #1b685f;
+  color: #87b00b;
   background-color: #e5f6f5;
 }
 .scheme_default.sidebar .widget_product_tag_cloud a,
 .scheme_default.sidebar .widget_tag_cloud a {
-  color: #1b685f;
+  color: #87b00b;
   background-color: rgba(54, 208, 196, 0.2);
 }
 .scheme_default .widget_product_tag_cloud a:hover,
 .scheme_default .widget_tag_cloud a:hover,
 .scheme_default .wp-block-tag-cloud a:hover {
   color: #ffffff !important;
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default.sidebar .widget_product_tag_cloud a:hover,
 .scheme_default.sidebar .widget_tag_cloud a:hover {
   color: #ffffff !important;
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default .widget_rss .widget_title a:first-child {
   color: #f190ac;
@@ -1231,7 +1231,7 @@ textarea.wp-editor-area {
   color: #fe7259;
 }
 .scheme_default .widget_rss .widget_title a:first-child:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default.sidebar .widget_rss .widget_title a:first-child:hover {
   color: #72cfd5;
@@ -1351,10 +1351,10 @@ textarea.wp-editor-area {
 .scheme_default .footer_copyright_inner {
   background-color: #ffffff;
   border-color: #e5f6f5;
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .footer_copyright_inner a {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .footer_copyright_inner a:hover {
   color: #f190ac;
@@ -1377,7 +1377,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .more-link {
   color: #ffffff;
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default .socials_share:not(.socials_type_drop) .social_icons {
   color: #ffffff;
@@ -1385,7 +1385,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .comments_wrap .form-submit input[type="submit"] {
   color: #ffffff;
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default .more-link:hover {
   color: #ffffff;
@@ -1417,7 +1417,7 @@ textarea.wp-editor-area {
 .scheme_default .mfp-image-holder .mfp-close,
 .scheme_default .mfp-iframe-holder .mfp-close,
 .scheme_default .mfp-close-btn-in .mfp-close {
-  color: #1b685f;
+  color: #87b00b;
   background-color: transparent;
 }
 .scheme_default .mfp-image-holder .mfp-close:hover,
@@ -1445,8 +1445,8 @@ textarea.wp-editor-area {
 .scheme_default .wpcf7-form input[type="search"]:hover,
 .scheme_default .wpcf7-form select:hover,
 .scheme_default .wpcf7-form textarea:hover {
-  color: #1b685f;
-  border-color: #bccdc7;
+  color: #87b00b;
+  border-color: #87b00b;
   background-color: transparent;
 }
 .scheme_default .wpcf7-form input[type="text"]:focus,
@@ -1500,8 +1500,8 @@ textarea.wp-editor-area {
 .scheme_default .services_page_content .wpcf7-form input[type="search"]:hover,
 .scheme_default .services_page_content .wpcf7-form select:hover,
 .scheme_default .services_page_content .wpcf7-form textarea:hover {
-  color: #1b685f;
-  border-color: #bccdc7;
+  color: #87b00b;
+  border-color: #87b00b;
   background-color: transparent;
 }
 .scheme_default .vc_row.vc_row-has-fill .wpcf7-form input[type="text"]:focus,
@@ -1528,28 +1528,28 @@ textarea.wp-editor-area {
   background-color: transparent;
 }
 .scheme_default .wpcf7-form input[type="submit"] {
-  border-color: #bccdc7;
-  background-color: #bccdc7;
+  border-color: #87b00b;
+  background-color: #87b00b;
 }
 .scheme_default .wpcf7-form input[type="submit"]:hover {
-  color: #bccdc7;
-  border-color: #bccdc7 !important;
+  color: #87b00b;
+  border-color: #87b00b !important;
   background-color: transparent;
 }
 .scheme_default body .booked-modal .bm-window a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .body_style_boxed {
   background-color: #d5e9e8;
 }
 .scheme_default .cq-infobox.green {
-  border-color: #bccdc7 !important;
+  border-color: #87b00b !important;
 }
 .scheme_default .cq-infobox.green:before {
-  border-color: #bccdc7 transparent !important;
+  border-color: #87b00b transparent !important;
 }
 .scheme_default .cq-innerbox .trx_addons_tiny_text {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .custom .tp-bullet {
   background-color: rgba(255, 255, 255, 0.3);
@@ -1566,7 +1566,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .post_item_none_search .search_wrap .search_submit:hover,
 .scheme_default .post_item_none_archive .search_wrap .search_submit:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default body table.booked-calendar,
 .scheme_default body table.booked-calendar td {
@@ -1575,36 +1575,36 @@ textarea.wp-editor-area {
 .scheme_default .post-password-form input[type="submit"] {
 } /* ================= BUTTON'S HOVERS ==================== */
 .scheme_default .sc_button_hover_slide_left {
-  background: linear-gradient(to right, #1b685f 50%, #f190ac 50%) no-repeat
+  background: linear-gradient(to right, #87b00b 50%, #f190ac 50%) no-repeat
     scroll right bottom / 210% 100% #f190ac !important;
 }
 .scheme_default .sc_button_hover_slide_right {
-  background: linear-gradient(to left, #1b685f 50%, #f190ac 50%) no-repeat
+  background: linear-gradient(to left, #87b00b 50%, #f190ac 50%) no-repeat
     scroll left bottom / 210% 100% #f190ac !important;
 }
 .scheme_default .sc_button_hover_slide_top {
-  background: linear-gradient(to bottom, #1b685f 50%, #f190ac 50%) no-repeat
+  background: linear-gradient(to bottom, #87b00b 50%, #f190ac 50%) no-repeat
     scroll right bottom / 100% 210% #f190ac !important;
 }
 .scheme_default .sc_button_hover_slide_bottom {
-  background: linear-gradient(to top, #1b685f 50%, #f190ac 50%) no-repeat scroll
+  background: linear-gradient(to top, #87b00b 50%, #f190ac 50%) no-repeat scroll
     right top / 100% 210% #f190ac !important;
 }
 .scheme_default .sc_button_hover_style_dark.sc_button_hover_slide_left {
-  background: linear-gradient(to right, #f190ac 50%, #1b685f 50%) no-repeat
-    scroll right bottom / 210% 100% #1b685f !important;
+  background: linear-gradient(to right, #f190ac 50%, #87b00b 50%) no-repeat
+    scroll right bottom / 210% 100% #87b00b !important;
 }
 .scheme_default .sc_button_hover_style_dark.sc_button_hover_slide_right {
-  background: linear-gradient(to left, #f190ac 50%, #1b685f 50%) no-repeat
-    scroll left bottom / 210% 100% #1b685f !important;
+  background: linear-gradient(to left, #f190ac 50%, #87b00b 50%) no-repeat
+    scroll left bottom / 210% 100% #87b00b !important;
 }
 .scheme_default .sc_button_hover_style_dark.sc_button_hover_slide_top {
-  background: linear-gradient(to bottom, #f190ac 50%, #1b685f 50%) no-repeat
-    scroll right bottom / 100% 210% #1b685f !important;
+  background: linear-gradient(to bottom, #f190ac 50%, #87b00b 50%) no-repeat
+    scroll right bottom / 100% 210% #87b00b !important;
 }
 .scheme_default .sc_button_hover_style_dark.sc_button_hover_slide_bottom {
-  background: linear-gradient(to top, #f190ac 50%, #1b685f 50%) no-repeat scroll
-    right top / 100% 210% #1b685f !important;
+  background: linear-gradient(to top, #f190ac 50%, #87b00b 50%) no-repeat scroll
+    right top / 100% 210% #87b00b !important;
 }
 .scheme_default .sc_button_hover_style_inverse.sc_button_hover_slide_left {
   background: linear-gradient(to right, #ffffff 50%, #f190ac 50%) no-repeat
@@ -1623,19 +1623,19 @@ textarea.wp-editor-area {
     right top / 100% 210% #f190ac !important;
 }
 .scheme_default .sc_button_hover_style_hover.sc_button_hover_slide_left {
-  background: linear-gradient(to right, #bccdc7 50%, #f190ac 50%) no-repeat
+  background: linear-gradient(to right, #87b00b 50%, #f190ac 50%) no-repeat
     scroll right bottom / 210% 100% #f190ac !important;
 }
 .scheme_default .sc_button_hover_style_hover.sc_button_hover_slide_right {
-  background: linear-gradient(to left, #bccdc7 50%, #f190ac 50%) no-repeat
+  background: linear-gradient(to left, #87b00b 50%, #f190ac 50%) no-repeat
     scroll left bottom / 210% 100% #f190ac !important;
 }
 .scheme_default .sc_button_hover_style_hover.sc_button_hover_slide_top {
-  background: linear-gradient(to bottom, #bccdc7 50%, #f190ac 50%) no-repeat
+  background: linear-gradient(to bottom, #87b00b 50%, #f190ac 50%) no-repeat
     scroll right bottom / 100% 210% #f190ac !important;
 }
 .scheme_default .sc_button_hover_style_hover.sc_button_hover_slide_bottom {
-  background: linear-gradient(to top, #bccdc7 50%, #f190ac 50%) no-repeat scroll
+  background: linear-gradient(to top, #87b00b 50%, #f190ac 50%) no-repeat scroll
     right top / 100% 210% #f190ac !important;
 }
 .scheme_default .sc_button_hover_style_alter.sc_button_hover_slide_left {
@@ -1750,7 +1750,7 @@ textarea.wp-editor-area {
 .scheme_default .post_featured.hover_icon a:hover,
 .scheme_default .post_featured.hover_icons a:hover {
   color: #ffffff;
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default .post_featured.hover_fade .post_info,
 .scheme_default .post_featured.hover_fade .post_info a,
@@ -1799,7 +1799,7 @@ textarea.wp-editor-area {
   color: #f190ac;
 }
 .scheme_default .post_featured.hover_pull .post_info .post_descr {
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default .post_featured.hover_border .post_info,
 .scheme_default .post_featured.hover_border .post_info a,
@@ -1840,16 +1840,16 @@ textarea.wp-editor-area {
 }
 .scheme_default .products.related .post_featured.hover_shop .icons a:hover {
   color: #1d1d1d;
-  border-color: #bccdc7 !important;
-  background-color: #bccdc7;
+  border-color: #87b00b !important;
+  background-color: #87b00b;
 }
 .scheme_default .post_featured.hover_shop_buttons .icons .shop_link {
   color: #ffffff;
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default .post_featured.hover_shop_buttons .icons a:hover {
   color: #1d1d1d;
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default .sc_layouts_row_delimiter,
 .scheme_default.sc_layouts_row_delimiter {
@@ -1868,10 +1868,10 @@ textarea.wp-editor-area {
   color: #f190ac;
 }
 .scheme_default s.sc_layouts_item_details_line2 {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default.footer_wrap .sc_layouts_item_details_line1 {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default.footer_wrap .sc_layouts_item_details_line2 {
   color: #95b2af;
@@ -2003,8 +2003,8 @@ textarea.wp-editor-area {
   .sc_layouts_row_type_compact
   .sc_layouts_item
   a.sc_layouts_item_link {
-  color: #bccdc7;
-  border-color: #bccdc7;
+  color: #87b00b;
+  border-color: #87b00b;
 }
 .scheme_default
   .top_panel_default
@@ -2032,8 +2032,8 @@ textarea.wp-editor-area {
   .sc_layouts_item
   a.sc_layouts_item_link:hover {
   color: #ffffff;
-  background-color: #bccdc7;
-  border-color: #bccdc7;
+  background-color: #87b00b;
+  border-color: #87b00b;
 }
 .scheme_default
   .top_panel_default
@@ -2046,7 +2046,7 @@ textarea.wp-editor-area {
   .sc_layouts_item
   a,
 .header_inverse .scheme_default.sc_layouts_row_type_compact .sc_layouts_item a {
-  color: #1b685f;
+  color: #87b00b;
   border-color: transparent;
 }
 .scheme_default .sc_layouts_row_type_compact .sc_layouts_item a,
@@ -2065,7 +2065,7 @@ textarea.wp-editor-area {
   .sc_layouts_item
   a:hover
   .sc_layouts_item_icon {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_layouts_row_type_compact .sc_layouts_item_icon,
 .scheme_default.sc_layouts_row_type_compact .sc_layouts_item_icon {
@@ -2085,7 +2085,7 @@ textarea.wp-editor-area {
 .header_inverse
   .scheme_default.sc_layouts_row_type_compact
   .sc_layouts_item_icon {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .sc_layouts_row_type_compact .sc_layouts_item_details_line1,
 .scheme_default .sc_layouts_row_type_compact .sc_layouts_item_details_line2,
@@ -2121,27 +2121,27 @@ textarea.wp-editor-area {
 .header_inverse
   .scheme_default.sc_layouts_row_type_compact
   .sc_layouts_item_details_line2 {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .sc_layouts_row_type_compact .socials_wrap .social_item a,
 .scheme_default.sc_layouts_row_type_compact .socials_wrap .social_item a {
   background-color: transparent;
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_layouts_row_type_compact .socials_wrap .social_item a:hover,
 .scheme_default.sc_layouts_row_type_compact .socials_wrap .social_item a:hover {
   background-color: transparent;
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .sc_layouts_row_type_compact .search_wrap .search_submit,
 .scheme_default.sc_layouts_row_type_compact .search_wrap .search_submit {
   background-color: transparent;
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_layouts_row_type_compact .search_wrap .search_submit:hover,
 .scheme_default.sc_layouts_row_type_compact .search_wrap .search_submit:hover {
   background-color: transparent;
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default
   .sc_layouts_row_type_compact
@@ -2159,7 +2159,7 @@ textarea.wp-editor-area {
 .scheme_default.sc_layouts_row_type_compact
   .search_wrap.search_style_normal
   .search_submit:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default
   .sc_layouts_row_type_compact
@@ -2207,7 +2207,7 @@ textarea.wp-editor-area {
   .sc_layouts_item
   a:hover
   .sc_layouts_item_icon {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_layouts_row_type_normal .search_wrap .search_submit,
 .scheme_default.sc_layouts_row_type_normal .search_wrap .search_submit {
@@ -2220,7 +2220,7 @@ textarea.wp-editor-area {
   color: #b7b7b7;
 }
 .scheme_default .sc_layouts_logo b {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_layouts_logo i {
   color: #f190ac;
@@ -2229,7 +2229,7 @@ textarea.wp-editor-area {
   color: #f190ac;
 }
 .scheme_default .sc_layouts_logo:hover .logo_text {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .logo_slogan {
   color: #95b2af;
@@ -2243,18 +2243,18 @@ textarea.wp-editor-area {
 }
 .scheme_default .search_style_expand .search_submit:hover,
 .scheme_default .search_style_expand .search_submit:focus {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .search_style_fullscreen.search_opened .search_form_wrap {
   background-color: rgba(255, 255, 255, 0.9);
 }
 .scheme_default .search_style_fullscreen.search_opened .search_form {
-  border-color: #1b685f;
+  border-color: #87b00b;
 }
 .scheme_default .search_style_fullscreen.search_opened .search_close,
 .scheme_default .search_style_fullscreen.search_opened .search_field,
 .scheme_default .search_style_fullscreen.search_opened .search_submit {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .search_style_fullscreen.search_opened .search_close:hover,
 .scheme_default .search_style_fullscreen.search_opened .search_field:hover,
@@ -2300,7 +2300,7 @@ textarea.wp-editor-area {
   color: #b7b7b7;
 }
 .scheme_default .search_wrap .search_results .search_results_close:hover {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .search_results.widget_area .post_item + .post_item {
   border-top-color: #e5f6f5;
@@ -2328,7 +2328,7 @@ textarea.wp-editor-area {
   .post_counters
   .socials_share
   .socials_caption:hover:before {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_layouts_title .post_date a:hover,
 .scheme_default .sc_layouts_title a.post_meta_item:hover,
@@ -2357,7 +2357,7 @@ textarea.wp-editor-area {
   color: #f190ac !important;
 }
 .scheme_default .sc_layouts_menu_nav > li > a {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_layouts_menu_nav > li > a:hover,
 .scheme_default .sc_layouts_menu_nav > li.sfHover > a {
@@ -2368,7 +2368,7 @@ textarea.wp-editor-area {
 .scheme_default .header_inverse .sc_layouts_menu_nav > li > a:hover,
 .scheme_default .top_panel_default .sc_layouts_menu_nav > li.sfHover > a,
 .scheme_default .header_inverse .sc_layouts_menu_nav > li.sfHover > a {
-  color: #1b685f !important;
+  color: #87b00b !important;
   border-color: rgba(27, 104, 95, 0.5) !important;
 }
 .scheme_default
@@ -2397,7 +2397,7 @@ textarea.wp-editor-area {
   .sc_layouts_menu_nav
   > li.current-menu-ancestor
   > a {
-  color: #1b685f !important;
+  color: #87b00b !important;
   border-color: rgba(27, 104, 95, 0.5) !important;
 }
 .scheme_default .sc_layouts_menu_nav > li.current-menu-item > a,
@@ -2418,8 +2418,8 @@ textarea.wp-editor-area {
 .scheme_default .sc_layouts_menu_popup .sc_layouts_menu_nav > li.sfHover > a,
 .scheme_default .sc_layouts_menu_nav > li li > a:hover,
 .scheme_default .sc_layouts_menu_nav > li li.sfHover > a {
-  color: #bccdc7 !important;
-  background-color: #bccdc7 !important;
+  color: white !important;
+  background-color: transparent !important;
 }
 .scheme_default
   .sc_layouts_menu_nav
@@ -2431,7 +2431,7 @@ textarea.wp-editor-area {
   li[class*="columns-"]
   li.menu-item-has-children.sfHover
   > a {
-  color: #bccdc7 !important;
+  color: #87b00b !important;
   background-color: transparent;
 }
 .scheme_default .sc_layouts_menu_nav > li li[class*="icon-"]:before {
@@ -2468,7 +2468,7 @@ textarea.wp-editor-area {
   background-color: #f3f5f7;
 }
 .scheme_default .menu_mobile_button {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .menu_mobile_button:hover {
   color: #f190ac;
@@ -2527,7 +2527,7 @@ textarea.wp-editor-area {
   background-color: #f190ac;
 }
 .scheme_default .menu_hover_color_line .sc_layouts_menu_nav > li > a:before {
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default .menu_hover_color_line .sc_layouts_menu_nav > li > a:after,
 .scheme_default
@@ -2547,7 +2547,7 @@ textarea.wp-editor-area {
   border-color: #d5e9e8;
 }
 .scheme_default .sc_layouts_cart_items_short {
-  background-color: #1b685f;
+  background-color: #87b00b;
   color: #ffffff;
 }
 .scheme_default .sc_layouts_cart_widget {
@@ -2563,7 +2563,7 @@ textarea.wp-editor-area {
   color: #b7b7b7;
 }
 .scheme_default .sc_layouts_cart_widget .sc_layouts_cart_widget_close:hover {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default
   .sc_layouts_currency
@@ -2639,7 +2639,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .socials_wrap .social_item a:hover,
 .scheme_default .socials_wrap .social_item a:hover i {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default
   .footer_wrap
@@ -2652,7 +2652,7 @@ textarea.wp-editor-area {
   .socials_wrap
   .social_item
   a {
-  color: #1b685f;
+  color: #87b00b;
   background-color: transparent;
 }
 .scheme_default
@@ -2675,10 +2675,10 @@ textarea.wp-editor-area {
   color: #f190ac;
 }
 .scheme_default .trx_addons_accent_hovered {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .trx_addons_accent > a:hover {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sidebar .trx_addons_accent,
 .scheme_default.sidebar .trx_addons_accent,
@@ -2702,23 +2702,23 @@ textarea.wp-editor-area {
 }
 .scheme_default .trx_addons_hover,
 .scheme_default .trx_addons_hover > * {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .trx_addons_accent_bg {
   background-color: #f190ac;
   color: #ffffff;
 }
 .scheme_default .trx_addons_accent_hovered {
-  background-color: #bccdc7;
+  background-color: #87b00b;
   color: #ffffff;
 }
 .scheme_default .trx_addons_inverse {
   color: #ffffff;
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default .trx_addons_dark,
 .scheme_default .trx_addons_dark > a {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .trx_addons_dark > a:hover {
   color: #f190ac;
@@ -2726,7 +2726,7 @@ textarea.wp-editor-area {
 .scheme_default .trx_addons_inverse,
 .scheme_default .trx_addons_inverse > a {
   color: #ffffff;
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default .trx_addons_inverse > a:hover {
   color: #1d1d1d;
@@ -2737,13 +2737,13 @@ textarea.wp-editor-area {
 }
 .scheme_default .trx_addons_dropcap_style_2 {
   color: #ffffff;
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default ol[class*="trx_addons_list"] > li:before {
   color: #f190ac;
 }
 .scheme_default ul[class*="trx_addons_list"] > li:before {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default ul[class*="trx_addons_list"][class*="_circled"] > li:before {
   color: #ffffff;
@@ -2753,20 +2753,20 @@ textarea.wp-editor-area {
   border-color: #e5f6f5;
 }
 .scheme_default .trx_addons_tooltip {
-  color: #1b685f;
-  border-color: #1b685f;
+  color: #87b00b;
+  border-color: #87b00b;
 }
 .scheme_default .trx_addons_tooltip:before {
   color: #ffffff;
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default .trx_addons_tooltip:after {
-  border-top-color: #1b685f;
+  border-top-color: #87b00b;
 }
 .scheme_default blockquote.trx_addons_blockquote_style_1:before,
 .scheme_default blockquote.trx_addons_blockquote_style_1 {
   color: #ffffff;
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default blockquote.trx_addons_blockquote_style_1 b {
   color: #ffffff;
@@ -2833,7 +2833,7 @@ textarea.wp-editor-area {
   color: #f190ac;
 }
 .scheme_default .slider_swiper .slide_info.slide_info_large .slide_title a {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .slider_swiper .slide_info.slide_info_large .slide_date {
   color: #95b2af;
@@ -2847,19 +2847,19 @@ textarea.wp-editor-area {
   .slide_info.slide_info_large
   .slide_title
   a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .slider_swiper.slider_multi .slide_cats a:hover,
 .scheme_default .slider_swiper.slider_multi .slide_title a:hover,
 .scheme_default .slider_swiper.slider_multi a:hover .slide_title {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .sc_slider_controls .slider_controls_wrap > a,
 .scheme_default .slider_swiper.slider_controls_side .slider_controls_wrap > a,
 .scheme_default .slider_outer_controls_side .slider_controls_wrap > a {
   color: #f190ac;
-  background-color: #1b685f;
-  border-color: #1b685f;
+  background-color: #87b00b;
+  border-color: #87b00b;
 }
 .scheme_default .sc_slider_controls .slider_controls_wrap > a:hover,
 .scheme_default
@@ -2876,8 +2876,8 @@ textarea.wp-editor-area {
 .scheme_default .slider_outer_controls_top .slider_controls_wrap > a,
 .scheme_default .slider_outer_controls_bottom .slider_controls_wrap > a {
   color: #ffffff;
-  background-color: #1b685f;
-  border-color: #1b685f;
+  background-color: #87b00b;
+  border-color: #87b00b;
 }
 .scheme_default
   .slider_swiper.slider_controls_top
@@ -2932,10 +2932,10 @@ textarea.wp-editor-area {
   background-color: #f190ac;
 }
 .scheme_default .slider_swiper_outer > .swiper-pagination-fraction {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .slider_titles_outside_wrap .slide_title a {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .slider_titles_outside_wrap .slide_title a:hover {
   color: #f190ac;
@@ -2951,7 +2951,7 @@ textarea.wp-editor-area {
   color: #b7b7b7;
 }
 .scheme_default .slider_style_modern .swiper-pagination-current {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_slider_controller .swiper-slide.swiper-slide-active {
   border-color: #f190ac;
@@ -2977,7 +2977,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .sc_slider_controller_titles .slider_controls_wrap > a:hover {
   color: #ffffff;
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default .trx_addons_audio_player.without_cover {
   background-color: #e5f6f5;
@@ -3007,7 +3007,7 @@ textarea.wp-editor-area {
   .categories_list_style_2
   .categories_list_title
   a:hover {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .widget_contacts .contacts_info {
   color: #b9efeb;
@@ -3022,7 +3022,7 @@ textarea.wp-editor-area {
   color: #fe7259;
 } /* Attention! This widget placed in the content area and should use main text colors */
 .scheme_default .sc_recent_news_header {
-  border-color: #1b685f;
+  border-color: #87b00b;
 }
 .scheme_default .sc_recent_news_header_category_item_more {
   color: #f190ac;
@@ -3046,7 +3046,7 @@ textarea.wp-editor-area {
 .scheme_default .sc_recent_news .post_counters_item:hover,
 .scheme_default .sc_recent_news .post_counters .post_counters_edit a:hover {
   color: #ffffff;
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default .sidebar_inner .sc_recent_news .post_counters_item:hover,
 .scheme_default
@@ -3132,8 +3132,8 @@ textarea.wp-editor-area {
   .sc_item_button
   a:not(.sc_button_bg_image):hover {
   color: #ffffff;
-  background-color: #bccdc7;
-  border-color: #bccdc7;
+  background-color: #87b00b;
+  border-color: #87b00b;
 }
 .scheme_default
   .sc_item_button
@@ -3178,7 +3178,7 @@ textarea.wp-editor-area {
 .scheme_default
   .sc_item_button
   a.sc_button_simple:not(.sc_button_bg_image):hover:after {
-  color: #bccdc7 !important;
+  color: #87b00b !important;
 }
 .scheme_default .trx_addons_hover_content .trx_addons_hover_links a {
   color: #ffffff;
@@ -3186,14 +3186,14 @@ textarea.wp-editor-area {
 }
 .scheme_default .trx_addons_hover_content .trx_addons_hover_links a:hover {
   color: #1d1d1d;
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default .sc_action_item .sc_action_item_subtitle {
   color: #f190ac;
 }
 .scheme_default .sc_action_item_date,
 .scheme_default .sc_action_item_info {
-  color: #1b685f;
+  color: #87b00b;
   border-color: #95b2af;
 }
 .scheme_default .sc_action_item_description {
@@ -3241,7 +3241,7 @@ textarea.wp-editor-area {
   .menu_side_inner
   > .toc_menu_item_active
   .toc_menu_icon_default:before {
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default.menu_side_icons .toc_menu_item .toc_menu_description,
 .scheme_default .menu_side_inner > .toc_menu_item .toc_menu_description {
@@ -3275,10 +3275,10 @@ textarea.wp-editor-area {
   color: #cfcfcf;
 }
 .scheme_default .sc_blogger_item_title a {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_blogger_item_title a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .sc_blogger_post_meta {
   color: #cfcfcf;
@@ -3312,7 +3312,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .sc_countdown_default .sc_countdown_digits span {
   color: #ffffff;
-  border-color: #bccdc7;
+  border-color: #87b00b;
   background-color: #f190ac;
 }
 .scheme_default .sc_countdown_circle .sc_countdown_digits {
@@ -3351,7 +3351,7 @@ textarea.wp-editor-area {
   color: #b7b7b7;
 }
 .scheme_default .courses_single .courses_page_meta_item_date {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .courses_single .courses_page_period {
   color: #b7b7b7;
@@ -3388,7 +3388,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .sc_dishes_compact .sc_dishes_item_header {
   color: #ffffff;
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default .sc_dishes_compact .sc_dishes_item_price,
 .scheme_default .sc_dishes_compact .sc_dishes_item_subtitle a {
@@ -3457,7 +3457,7 @@ textarea.wp-editor-area {
   color: #f190ac;
 }
 .scheme_default .sc_events_detailed .sc_events_item_title {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_events_detailed .sc_events_item_time {
   color: #95b2af;
@@ -3495,7 +3495,7 @@ textarea.wp-editor-area {
   background-color: #ffffff;
 }
 .scheme_default .sc_form_field_title {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .comments_wrap .comments_field input,
 .scheme_default .comments_wrap .comments_field textarea,
@@ -3627,8 +3627,8 @@ textarea.wp-editor-area {
   .sc_form_field
   input[type="search"]:hover,
 .scheme_default .vc_row.vc_row-has-fill .sc_form .sc_form_field textarea:hover {
-  color: #1b685f;
-  border-color: #bccdc7;
+  color: #87b00b;
+  border-color: #87b00b;
   background-color: transparent;
 }
 .scheme_default .comments_wrap .comments_field input:active,
@@ -3720,13 +3720,13 @@ textarea.wp-editor-area {
 }
 .scheme_default .sc_form .sc_form_info_data > a,
 .scheme_default .sc_form .sc_form_info_data > span {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_form .sc_form_info_data > a:hover {
   color: #f190ac;
 }
 .scheme_default [class*="sc_input_hover_"] .sc_form_field_content {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_input_hover_accent input[type="text"]:focus,
 .scheme_default .sc_input_hover_accent input[type="number"]:focus,
@@ -3833,7 +3833,7 @@ textarea.wp-editor-area {
 .scheme_default .sc_googlemap_content strong,
 .scheme_default.sc_googlemap_content b,
 .scheme_default.sc_googlemap_content strong {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_googlemap_content_detailed:before {
   color: #f190ac;
@@ -3842,20 +3842,20 @@ textarea.wp-editor-area {
   color: #f190ac;
 }
 .scheme_default .sc_icons .sc_icons_item_linked:hover .sc_icons_icon {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_icons .sc_icons_item_title {
   color: #f190ac;
 }
 .scheme_default.footer_wrap .sc_icons .sc_icons_item_title {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default.footer_wrap .sc_icons .sc_icons_item_description {
   color: #95b2af;
 }
 .scheme_default .sc_icons_item_description,
 .scheme_default .sc_icons_modern .sc_icons_item_description {
-  color: #1b685f;
+  color: #87b00b;
 } /* Sports:Matches and Players */
 .scheme_default .sc_sport_default .sc_sport_item_subtitle .sc_sport_item_date {
   color: #b7b7b7;
@@ -3864,7 +3864,7 @@ textarea.wp-editor-area {
   border-color: #e5f6f5;
 }
 .scheme_default .sc_matches_main .sc_matches_item_score a {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_matches_main .sc_matches_item_score a:hover {
   color: #f190ac;
@@ -3913,10 +3913,10 @@ textarea.wp-editor-area {
   color: #f190ac;
 }
 .scheme_default.sc_price .sc_price_icon:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .sc_price_info .sc_price_subtitle {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_price_info .sc_price_title,
 .scheme_default .sc_price_info .sc_price_title a {
@@ -3931,23 +3931,23 @@ textarea.wp-editor-area {
 }
 .scheme_default .sc_price_info .sc_price_description,
 .scheme_default .sc_price_info .sc_price_details {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_price_link {
-  color: #1b685f;
+  color: #87b00b;
   background-color: rgba(54, 208, 196, 0.2);
   border-color: rgba(54, 208, 196, 0.2);
 }
 .scheme_default .sc_price_link:hover {
   color: #ffffff;
-  background-color: #bccdc7;
-  border-color: #bccdc7;
+  background-color: #87b00b;
+  border-color: #87b00b;
 }
 .scheme_default .sc_promo_icon {
   color: #f190ac;
 }
 .scheme_default .sc_promo .sc_promo_title {
-  color: #1b685f;
+  color: black;
 }
 .scheme_default .sc_promo .sc_promo_content {
   color: #95b2af;
@@ -3958,7 +3958,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .sc_promo_modern .sc_promo_link2:hover {
   color: #ffffff;
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default.sc_promo .sc_promo_text.trx_addons_stretch_height,
 .scheme_default.sc_promo .sc_promo_text_inner {
@@ -3978,12 +3978,12 @@ textarea.wp-editor-area {
 }
 .scheme_default .sc_promo .sc_item_button a:not(.sc_button_bg_image) {
   color: #ffffff;
-  border-color: #bccdc7;
-  background-color: #bccdc7;
+  border-color: #87b00b;
+  background-color: #87b00b;
 }
 .scheme_default .sc_promo .sc_item_button a:not(.sc_button_bg_image):hover {
-  color: #bccdc7;
-  border-color: #bccdc7;
+  color: #87b00b;
+  border-color: #87b00b;
   background-color: transparent;
 }
 .scheme_default
@@ -4014,7 +4014,7 @@ textarea.wp-editor-area {
   background-color: #ffffff;
 }
 .scheme_default .sc_services_default .sc_services_item_icon {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default
   .sc_services_default
@@ -4058,7 +4058,7 @@ textarea.wp-editor-area {
   .sc_services_list
   .sc_services_item:hover
   .sc_services_item_icon {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default
   .sc_services_default
@@ -4097,7 +4097,7 @@ textarea.wp-editor-area {
   .sc_services_light
   .sc_services_item:hover
   .sc_services_item_icon {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .sc_services_iconed .sc_services_item {
   color: #b9efeb;
@@ -4300,7 +4300,7 @@ textarea.wp-editor-area {
 }
 .scheme_default .sc_services_chess .sc_services_item:hover {
   color: #b7b7b7;
-  background-color: #1b685f;
+  background-color: #87b00b;
 }
 .scheme_default
   .sc_services_chess
@@ -4343,7 +4343,7 @@ textarea.wp-editor-area {
   .sc_services_tabs_simple
   .sc_services_tabs_list_item_active
   .sc_services_item_subtitle {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .sc_services_tabs .sc_services_item_content {
   color: #b9efeb;
@@ -4430,14 +4430,14 @@ textarea.wp-editor-area {
 }
 .scheme_default .sc_services_light .sc_services_item .sc_services_item_title,
 .scheme_default .sc_services_light .sc_services_item .sc_services_item_title a {
-  color: #bccdc7;
+  color: black;
 }
 .scheme_default
   .sc_services_light
   .sc_services_item
   .sc_services_item_title
   a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .vc_row-has-fill .sc_services_light .sc_services_item {
   background-color: #ffffff;
@@ -4449,15 +4449,15 @@ textarea.wp-editor-area {
   color: #ffffff;
 } /* Skills (Counters) */
 .scheme_default .sc_skills_counter .sc_skills_icon {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_skills .sc_skills_total {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .sc_skills .sc_skills_item_title,
 .scheme_default .sc_skills .sc_skills_legend_title,
 .scheme_default .sc_skills .sc_skills_legend_value {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default
   .sc_skills_counter
@@ -4495,7 +4495,7 @@ textarea.wp-editor-area {
   color: #ffffff;
 }
 .scheme_default .sc_testimonials_item_content:before {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default .sc_testimonials_item_author_title {
   color: #ffffff;
@@ -4683,11 +4683,11 @@ textarea.wp-editor-area {
   background-color: #ffffff;
 }
 .scheme_default .trx_addons_cv_header_image img {
-  border-color: #1b685f;
+  border-color: #87b00b;
 }
 .scheme_default .trx_addons_cv_header .trx_addons_cv_header_letter,
 .scheme_default .trx_addons_cv_header .trx_addons_cv_header_text {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default
   .trx_addons_cv_header
@@ -4701,7 +4701,7 @@ textarea.wp-editor-area {
   .trx_addons_cv_header_socials
   .social_item
   > a:hover {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .trx_addons_cv_header_letter,
 .scheme_default .trx_addons_cv_header_text,
@@ -4716,14 +4716,14 @@ textarea.wp-editor-area {
   .social_item
   > a {
   color: #ffffff;
-  text-shadow: 1px 1px 3px #1b685f;
+  text-shadow: 1px 1px 3px #87b00b;
 }
 .scheme_default
   .trx_addons_cv_tint_dark
   .trx_addons_cv_header_socials
   .social_item
   > a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default
   .trx_addons_cv_navi_buttons
@@ -4915,13 +4915,13 @@ textarea.wp-editor-area {
   .trx_addons_cv_resume_style_services
   .trx_addons_cv_resume_item_text
   a:hover {
-  color: #bccdc7;
+  color: #87b00b;
 }
 .scheme_default
   .trx_addons_cv_resume_style_services
   .trx_addons_cv_resume_item_title
   > a:hover:after {
-  border-color: #bccdc7;
+  border-color: #87b00b;
 }
 .scheme_default
   .trx_addons_cv_resume_style_services
@@ -5074,7 +5074,7 @@ textarea.wp-editor-area {
   .vc_tta-panel-heading
   .vc_tta-controls-icon {
   color: #ffffff;
-  background-color: #bccdc7;
+  background-color: #f190ac;
 }
 .scheme_default
   .vc_tta.vc_tta-accordion
@@ -5091,7 +5091,7 @@ textarea.wp-editor-area {
   .vc_tta-panel
   .vc_tta-panel-title
   > a {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default
   .vc_tta-color-grey.vc_tta-style-classic
@@ -5106,7 +5106,7 @@ textarea.wp-editor-area {
   .vc_tta-panel-title
   > a
   .vc_tta-controls-icon {
-  color: #bccdc7;
+  color: #87b00b;
   background-color: #ffffff;
 }
 .scheme_default
@@ -5121,7 +5121,7 @@ textarea.wp-editor-area {
   .vc_tta-panel-title
   > a
   .vc_tta-controls-icon:after {
-  border-color: #bccdc7;
+  border-color: #87b00b;
 }
 .scheme_default .vc_tta.vc_tta-accordion .vc_tta-panel-heading {
   background-color: #e5f6f5 !important;
@@ -5130,7 +5130,7 @@ textarea.wp-editor-area {
   .vc_tta.vc_tta-accordion
   .vc_tta-panel.vc_active
   .vc_tta-panel-heading {
-  background-color: #bccdc7 !important;
+  background-color: #f190ac !important;
 }
 .scheme_default
   .vc_tta-color-grey.vc_tta-style-classic.vc_tta-tabs
@@ -5142,7 +5142,7 @@ textarea.wp-editor-area {
   .vc_tta-tabs-list
   .vc_tta-tab
   > a {
-  color: #1b685f;
+  color: #87b00b;
   background-color: #e5f6f5;
 }
 .scheme_default
@@ -5156,7 +5156,7 @@ textarea.wp-editor-area {
   .vc_tta-tab.vc_active
   > a {
   color: #ffffff;
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default .vc_separator.vc_sep_color_grey .vc_sep_line {
   border-color: #e5f6f5;
@@ -5174,14 +5174,14 @@ textarea.wp-editor-area {
   .vc_progress_bar.vc_progress_bar_narrow
   .vc_single_bar
   .vc_label {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default
   .vc_progress_bar.vc_progress_bar_narrow
   .vc_single_bar
   .vc_label
   .vc_label_units {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .vc_message_box_closeable:after,
 .scheme_default .vc_message_box .vc_message_box-icon > * {
@@ -5193,19 +5193,19 @@ textarea.wp-editor-area {
 }
 .scheme_default .vc_color-info.vc_message_box {
   color: #ffffff;
-  background-color: #bccdc7;
+  background-color: #87b00b;
 }
 .scheme_default .vc_color-success.vc_message_box {
   color: #ffffff;
   background-color: #73dbb8;
 }
 .scheme_default .vc_color-grey.vc_message_box-solid {
-  color: #1b685f;
+  color: #87b00b;
   background-color: #e5f6f5;
 }
 .scheme_default .vc_color-grey.vc_message_box_closeable:after,
 .scheme_default .vc_color-grey.vc_message_box .vc_message_box-icon > * {
-  color: #1b685f;
+  color: #87b00b;
 }
 .scheme_default .mc4wp-form input[type="email"] {
   background-color: #1d1d1d;
